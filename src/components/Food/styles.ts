@@ -15,6 +15,7 @@ export const Container = styled.div<IFoodPlateProps>`
     overflow: hidden;
     transition: 0.3s opacity;
     text-align: center;
+    padding: 0;
 
     ${props =>
       !props.available &&
@@ -25,6 +26,7 @@ export const Container = styled.div<IFoodPlateProps>`
     img {
       pointer-events: none;
       user-select: none;
+      width: 410px;
     }
   }
 

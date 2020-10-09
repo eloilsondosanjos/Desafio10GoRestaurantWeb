@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": 1,
-      "name": "Macarrão ao molho",
+      "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
       "available": true,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://curtamais.com.br/uploads/conteudos/f8ef86798b9bc1c091edd30d279ac8d3.jpg",
+      "name": "Miojô Ao Leitê",
+      "price": "20.00",
+      "description": "Prato maravilhoso, e rápido preparo",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://i0.statig.com.br/bancodeimagens/64/ge/wh/64gewhugvpgnvu9sqiu726uwb.jpg",
+      "name": "Miojô Primaverá",
+      "price": "35.90",
+      "description": "Una dellicia de prattô",
+      "available": true,
+      "id": 5
     }
   ]
 }
