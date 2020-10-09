@@ -74,7 +74,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ yarn start
 
 ```
-
 <br>
 
 ## 📟 Layout
