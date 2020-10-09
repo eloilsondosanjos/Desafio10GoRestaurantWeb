@@ -27,6 +27,7 @@ export const Container = styled.div<IFoodPlateProps>`
       pointer-events: none;
       user-select: none;
       width: 410px;
+      height: 192px;
     }
   }
 
