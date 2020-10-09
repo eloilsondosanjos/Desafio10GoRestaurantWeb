@@ -22,11 +22,13 @@
 
 <br>
 
-<div align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+## 🎯 Indice
+
+  - [Tecnologias](#-tecnologias)
+  - [Como Executar o Projeto](#-como-executar-o-projeto)
+  - [Layout](#-layout)
+  - [Licença](#-licença)
+
 </div>
 
 <br>
@@ -53,7 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 📦 Como Baixar e Executar o Projeto:
+## 📦 Como Executar o Projeto:
 
 ```bash
 
