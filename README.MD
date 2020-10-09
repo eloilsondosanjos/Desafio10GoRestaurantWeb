@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/GoRestaurant Home.bmp" width="95%">
+  <img src="src/assets/GoRestaurant Home.png" width="95%">
 </div>
 
 <br>
